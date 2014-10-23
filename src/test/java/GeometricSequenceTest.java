@@ -4,7 +4,7 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
- * Created by Mom on 2014-10-23.
+ * Created by Mingi-Seo on 2014-10-23.
  */
 public class GeometricSequenceTest
 {
