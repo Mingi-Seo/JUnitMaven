@@ -13,7 +13,7 @@ public class GeometricSequenceTest
     {
         GeometricSequence geoSeq = new GeometricSequence();
         int n = 5;
-        double result = 0;
+        double result = 0.0;
 
         result = geoSeq.geoSeq(n);
         System.out.println("Result : " + result);
