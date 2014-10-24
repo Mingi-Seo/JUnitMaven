@@ -12,7 +12,7 @@ public class CalculatorTest
     public void testCalculator() throws Exception
     {
         Calculator cal = new Calculator();
-        int a = 20, b = 10;
+        int a = 120, b = 4;
 
         assertThat(a + b, is(cal.sum(a, b)));
         System.out.println("Sum : " + cal.sum(a, b));
